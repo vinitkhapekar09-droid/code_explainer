@@ -83,10 +83,4 @@ Output will include:
 - **Llama 3.3 70B** - LLM engine
 - **OpenAI SDK** - API client
 
-## License
 
-MIT
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
